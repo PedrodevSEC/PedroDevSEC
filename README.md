@@ -1,8 +1,11 @@
 # Olá! 👋 Eu sou Pedro Machado Araújo  
 
 🎓 Formando em Engenharia de Computação pela FURG.
+
 💻 Desenvolvedor Fullstack, com experiência em Python, PostgreSQL, JavaScript, Flutter e Unity.
+
 🕹 Meu TCC em VR explorou o uso da realidade virtual como ferramenta para auxiliar no tratamento de fobias.
+
 🚀 Sempre em busca de novos desafios e oportunidades para aprender e inovar.
 
 ## 🚀 Tecnologias que uso:
