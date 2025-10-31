@@ -21,7 +21,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🌐 Conecte-se comigo:
-[![LinkedIn](https://www.linkedin.com/in/pedro-machado-araujo)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-machado-araujo)
 
 ## 📊 GitHub Stats:
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroDevSEC&show_icons=true&theme=radical)
