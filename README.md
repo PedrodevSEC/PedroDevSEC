@@ -1,6 +1,8 @@
 # Olá! 👋 Eu sou Pedro Machado Araújo  
 
-🎓 Formando em Engenharia de Computação pela FURG.
+🎓 Formado em Engenharia de Computação pela FURG.
+
+🎓Mestrando em Modelagem Computacional (Foco em sistemas Multiagentes) na FURG.
 
 💻 Desenvolvedor Fullstack, com experiência em Python, PostgreSQL, JavaScript, Flutter e Unity.
 
