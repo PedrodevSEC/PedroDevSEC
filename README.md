@@ -10,7 +10,7 @@
 
 🚀 Sempre em busca de novos desafios e oportunidades para aprender e inovar.
 
-## 🚀 Tecnologias que uso:
+## Tecnologias que uso:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
